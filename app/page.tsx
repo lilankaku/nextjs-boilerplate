@@ -15,8 +15,6 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{" "}
-            
           </a>
         </div>
       </div>
